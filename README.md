@@ -10,7 +10,7 @@
 
 - 🏢 I'm a CS Student
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I am interested in: C++,Software Engineering 
+- 💬 I am interested in: C++,Software development 
 
 ### Connect with Me :
 
